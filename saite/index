@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,minimum-scale=1">
+    <title>赛特智能SAITE&mdash;&mdash;让无人驾驶融入美好生活</title>
+    <meta name="keywords" content="赛特、赛特智能、广州赛特智能科技有限公司、赛特智能机器人、医院智能机器人、无人驾驶清扫车" />
+    <meta name="description" content="广州赛特智能科技有限公司是专业的智能无人驾驶设备全场景解决方案商，公司专注于高精度室内外定位及导航、机器视觉和智能集群调度等核心技术研发，布局近200项技术专利和知识产权。赛特智能主要产品包括医院智能配送机器人、智能消毒机器人、智能感控机器人、无人驾驶清扫车等。" />
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+    <!-- 头部导航栏 -->
+    <div class="index-header">
+        <div class="logo">
+            <a href="#"><img src="images/logo.png" alt="logo"></a>
+        </div>
+        <div class="header-nav">
+            <ul>
+                <li class="nLi"><a href="/">首页</a></li>
+                <li class="nLi"><a href="/abouts.html">关于赛特</a></li>
+                <li class="nLi">
+                    <h3><a href="javascript:;">解决方案</a><i class="icon-angle-right"></i><i class="icon-angle-down"></i><h3>
+                    <div class="sub">
+                        <ul class="subul">
+                            <li class="sLi">
+                                <a href="/unmanned.html">无人驾驶清扫车</a>
+                            </li>
+                            <li class="sLi">
+                                <a href="/hospital.html">医院智能配送机器人</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="nLi">
+                    <h3><a href="javascript:;">产品展示</a><i class="icon-angle-right"></i><i class="icon-angle-down"></i></h3>
+                    <div class="sub">
+                        <ul class="subul">
+                            <li class="sLi"><a href="/banyun.html">医院智能配送机器人</a></li>
+                            <li class="sLi"><a href="/clear.html">无人驾驶清扫车</a></li>
+                            <li class="sLi"><a href="/service.html">智能服务机器人</a></li>
+                            <li class="sLi"><a href="/component.html">定位定向组件</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="nLi"><a href="/jobs.html">招贤纳士</a></li>
+                <li class="nLi"><a href="/news.html">新闻资讯</a></li>
+                <li class="nLi"><a href="/contact.html">联系我们</a></li>
+                <li class="nLi"><a href="/video.html">视频中心</a></li>
+                    </ul>
+        </div>
+    </div>
+
+    <!-- 首页轮播 -->
+    <div class="home-index">
+        <div class="video-banner">
+        <video id="megvii_video" poster="images/banner.jpg" autoplay="autoplay" playsinline loop="true" preload="auto" autobuffer="autobuffer" muted class="video megvii_video">
+          <source src="./video/banner.mp4" type="video/mp4">
+        </video>
+        <img src="images/banner.jpg">
+        <h1 data-am-scrollspy="{animation:'slide-bottom', delay: 400,repeat: false}">全球导航与控制技术领域领跑者<span>Global leader in the navigation and control technology field</span></h1>
+        </div>
+    </div>
+
+    <!-- 核心技术 -->
+    <div class="core-jishu"></div>
+
+    <!-- 产品展示 -->
+    <div class="product-index"></div>
+
+    <!-- 企业文化 -->
+    <div class="company"></div>
+
+    <!-- 联系方式 -->
+    <div class="footer-contact"></div>
+
+    <!-- 底部 -->
+    <div class="footer"></div>
+</body>
+
+</html>
